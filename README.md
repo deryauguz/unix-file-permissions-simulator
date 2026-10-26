@@ -41,5 +41,4 @@ Uygulama; kullanıcılar, kullanıcı grupları, sahiplik ilişkileri, `rwx` (Re
 
 ```text
 ├── dosya_erisim_simulatoru.py      # Uygulama ana kaynak kodu ve GUI bileşenleri
-├── filesystem_data_modern.json     # Kullanıcı ve dosya izin veritabanı (otomatik üretilir)
 └── README.md                       # Proje dokümantasyonu
